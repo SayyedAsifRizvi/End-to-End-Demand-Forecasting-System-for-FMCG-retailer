@@ -75,8 +75,4 @@ This project uses three primary datasets:
 
 ---
 
-## 🎯 **How to Run the Project**
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/demand-forecasting-fmcg.git
-cd demand-forecasting-fmcg
+
